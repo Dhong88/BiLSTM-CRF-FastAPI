@@ -39,3 +39,7 @@ code for testing the best model that give good fit
 
 ### FastAPI
 code for generate the API for user to use the system
+
+## Result
+
+![image](https://user-images.githubusercontent.com/82029895/127023722-57011f12-3f8b-423f-a0b3-2300faefe5d7.png)
