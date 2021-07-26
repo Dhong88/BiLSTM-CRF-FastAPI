@@ -1,6 +1,6 @@
 # BiLSTM-CRF-FastAPI
 This respository include the code for building a Malay POS tagger by using Bi-LSTM-CRF.
-The dataset is small. To overcome overfitting, pre-trained word embedding is used in the model.
+The dataset is small. To overcome overfitting, pre-trained word embedding is used.
 The model is then deploy by FastAPI.
 
 ## Requirement
