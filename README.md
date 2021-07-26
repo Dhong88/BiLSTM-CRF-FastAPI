@@ -31,6 +31,9 @@ code for data pre-processing, model building and model trainning
 
 *Since the dataset used is small, to overcome overfitting, i combined the matrix (trained from my dataset) and the pre-trained embedding matrix from Kyubyong (https://github.com/Kyubyong/wordvectors), which is trained from bigger dataset.*
 
+### index_to_tag.pickle and word_to_index.pickle
+This pickle file contained the index for each word and tag that converted in the train_model.ipynb
+
 ### best model
 code for testing the best model that give good fit
 
